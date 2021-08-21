@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHREEYAM777
+- 👋 Hi, I’m @SHREEYAM
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python,java,c,c++
 - 💞️ I’m looking to collaborate on ...
